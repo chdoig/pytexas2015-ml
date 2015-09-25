@@ -1,0 +1,9 @@
+name: pytexas-ml
+dependencies:
+    - pandas
+    - numpy
+    - scikit-learn
+    - jupyter
+    - matplotlib
+    - seaborn
+    - ggplot
